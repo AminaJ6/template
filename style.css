@@ -1,0 +1,64 @@
+.carousel-item
+{
+    text-align: center;
+    background: yellowgreen linear-gradient(to left, greenyellow, olivedrab);
+    color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.jumbotron
+{
+    padding-top: 60px;
+    background-color: yellowgreen;
+}
+.second
+{
+    padding-bottom: 40px;
+    padding-top: 30px;
+}
+.second h3{
+    padding-top: 20px;
+}
+
+.third
+{
+    background-color:yellowgreen;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.third p
+{
+    
+    font-size: 15px;
+}
+.third h4
+{
+    padding-top: 20px;
+}
+
+.footer
+{
+    padding-top: 30px;
+}
+.third .btn
+{
+    background-color: white;
+    color: black;
+    border:none;
+    
+}
+#my-slide
+{
+    background: yellowgreen linear-gradient(to left, greenyellow, olivedrab);
+    color: black;
+}
+
+.third img{
+   
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+img{
+    border-radius: 10px;
+}
